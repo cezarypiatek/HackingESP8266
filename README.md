@@ -21,6 +21,6 @@ https://www.instructables.com/ESP8266-Using-GPIO0-GPIO2-as-inputs/
 
 https://www.arduino.cc/en/Reference/WiFiStatus
 
-# Switch and Led example
+## Switch and Led example
 
 https://diyi0t.com/switches-tutorial-for-arduino-and-esp8266/
