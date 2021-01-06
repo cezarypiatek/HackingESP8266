@@ -24,3 +24,14 @@ https://www.arduino.cc/en/Reference/WiFiStatus
 ## Switch and Led example
 
 https://diyi0t.com/switches-tutorial-for-arduino-and-esp8266/
+
+## How to get the most out of the limited pins on the inexpensive ESP8266-01 WiFi Module
+http://www.forward.com.au/pfod/ESP8266/GPIOpins/ESP8266_01_pin_magic.html
+
+## The ESP8266 as a microcontroller - Hardware
+
+https://tttapa.github.io/ESP8266/Chap04%20-%20Microcontroller.html
+
+## Pull-up and Pull-donw resistors explained
+
+https://www.electronics-tutorials.ws/logic/pull-up-resistor.html
