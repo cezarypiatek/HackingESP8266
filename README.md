@@ -35,3 +35,4 @@ https://tttapa.github.io/ESP8266/Chap04%20-%20Microcontroller.html
 ## Pull-up and Pull-donw resistors explained
 
 https://www.electronics-tutorials.ws/logic/pull-up-resistor.html
+https://www.circuitbasics.com/pull-up-and-pull-down-resistors/
